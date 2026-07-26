@@ -28,6 +28,7 @@
 | วันที่ | ไฟล์ | Agent | Stage | สถานะ |
 |---|---|---|---|---|
 | 2026-07-26 | [stage2-scoring.md](2026-07-26-stage2-scoring.md) — คะแนน 30 โอกาส 8 เกณฑ์ + sensitivity | decision-keeper (Opus) | 2 | 🔴 **ยังไม่ผ่าน red-team** · Gate 2 ยังไม่ผ่าน (ขาด 2 ข้อ) |
+| 2026-07-26 | [make-once-durability.md](2026-07-26-make-once-durability.md) — ของที่ทำครั้งเดียวขายได้นาน + เศรษฐศาสตร์ต่อชิ้น | recon ×2 | 1 | 🔴 ยังไม่ผ่าน red-team |
 | 2026-07-26 | [redteam-brand-dna.md](2026-07-26-redteam-brand-dna.md) — คำตัดสิน Brand DNA ร่างที่ 1 | red-team (Opus) | คู่ขนาน | ✅ ถาวร ห้ามลบ |
 | 2026-07-26 | [brand-dna.md](2026-07-26-brand-dna.md) — Brand DNA ของร้าน (ชั้น 1) | claude (สัมภาษณ์เจ้าของ) | คู่ขนาน | 🔴 **ไม่ผ่าน red-team** · ห้ามตกผลึกเข้า knowledge/ |
 | 2026-07-26 | [payment-rails-thailand.md](2026-07-26-payment-rails-thailand.md) — ช่องทางรับเงินของผู้ขายไทย | recon ×1 | 0 | ✅ ใช้ได้ · ตกผลึกเข้า knowledge/05 แล้ว |
