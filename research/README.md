@@ -27,6 +27,7 @@
 
 | วันที่ | ไฟล์ | Agent | Stage | สถานะ |
 |---|---|---|---|---|
+| 2026-07-26 | [payment-rails-thailand.md](2026-07-26-payment-rails-thailand.md) — ช่องทางรับเงินของผู้ขายไทย | recon ×1 | 0 | ✅ ใช้ได้ · ตกผลึกเข้า knowledge/05 แล้ว |
 | 2026-07-25 | [market-map.md](2026-07-25-market-map.md) — แผนที่ตลาดฝั่งคนซื้อ | recon ×4 (แตกลูก ×8) | 0 | 🔴 **ไม่ผ่าน red-team** · แก้ครั้งที่ 2 แล้ว ยังไม่ผ่าน gate |
 | 2026-07-25 | [redteam-market-map.md](2026-07-25-redteam-market-map.md) — คำตัดสิน | red-team (Opus) + fact-check ×3 | 0 | ✅ ถาวร ห้ามลบ |
 | 2026-07-25 | *(recon 4 ตัวรอบแรก — ตกผลึกเข้า knowledge/01-04 โดยตรง ไม่ได้เก็บไฟล์ดิบ)* | recon ×4 | — | ⚠️ ทำก่อนมีกฎ red-team |

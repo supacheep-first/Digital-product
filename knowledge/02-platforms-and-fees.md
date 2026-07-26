@@ -29,7 +29,7 @@
 |---|---|---|---|---|---|---|
 | **Polar.sh** | 5%+$0.50 → 3.4%+$0.30 (tier สูง) | $0-400 | ✅ | ✅ ระบุชัด | dev / SaaS / digital product | ✅ polar.sh/docs/merchant-of-record/fees |
 | **Payhip** | ฟรี 5% / $29→2% / $99→0% | $0-99 | 🟡 EU/UK VAT + US sales tax (จาก 1 ก.ค. 2026) ที่เหลือเป็นหน้าที่เรา | ✅ | คนที่ยอดเกิน $1K/เดือน | ✅ payhip.com/payment-gateways |
-| **Gumroad** | 10%+$0.50 / **30% ผ่าน Discover** | $0 | ✅ (ตั้งแต่ 1 ม.ค. 2025) | ⚠️ PayPal only | เริ่มเร็วสุด ขายชิ้นเดียว | ⚠️ |
+| ~~**Gumroad**~~ | 10%+$0.50 / 30% ผ่าน Discover | $0 | ✅ | ❌ **ปิดสำหรับโปรเจกต์นี้** — จ่ายผู้ขายไทยผ่าน PayPal เท่านั้น และเจ้าของโปรเจกต์ใช้ PayPal ไม่ได้ (26 ก.ค. 2026) | — | — |
 | **Lemon Squeezy** | 5%+$0.50 | $0 | ✅ | ⚠️ | software/SaaS — **กำลังถูกยุบเป็น Stripe Managed Payments** (preview ก.พ. 2026) | ✅ lemonsqueezy.com/blog/2026-update |
 | **Whop** | 2.7%+$0.30 + 3% platform ≈ 6-7% (+0.5% tax module) | $0 | ✅ | ⚠️ | community / cohort / membership | ⚠️ |
 | **Stan Store** | 0% platform (จ่ายแค่ Stripe ~2.9%+30¢) | $29/$99 | ❌ | ⚠️ | link-in-bio สาย coach | ⚠️ |
